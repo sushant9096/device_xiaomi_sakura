@@ -334,18 +334,6 @@ vendor/firmware/a530_pm4.fw|b1cf625b5552b99839687f479c124ac5daca2ca2
 # Ipacm - from Sakura MIUI PIE RELEASE
 vendor/bin/ipacm-diag|4dc647f49c278905e69af0ba9d8271927cd1859c
 
-# Keymaster - from Sakura MIUI PIE RELEASE
-vendor/bin/hw/android.hardware.keymaster@3.0-service-qti|023a0e237fbc068a3191e91e5a1ec0ea5831d52b
-vendor/etc/init/android.hardware.keymaster@3.0-service-qti.rc|573b7392c8997008204081165cfe81a11080745d
-vendor/lib64/hw/android.hardware.keymaster@3.0-impl-qti.so|4df4634632c36bd48ccc9de73b77713cd658b012
-vendor/lib64/libkeymasterdeviceutils.so|3b4d1b97549b15d85254739613fc8d772f716806
-vendor/lib64/libkeymasterprovision.so|7ad925d46a558a8c086a61e022eef328b2516f43
-vendor/lib64/libkeymasterutils.so|4c8273711b5ba1a503d4581f661ed20a1578810d
-vendor/lib/hw/android.hardware.keymaster@3.0-impl-qti.so|81fcc03daff3d4d0bd205abe7dce89f68ee9e72c
-vendor/lib/libkeymasterdeviceutils.so|1860ef88bd3d007329b1ce1938fd9e4c1aba0c4e
-vendor/lib/libkeymasterprovision.so|900ee91eb14e6184f6e92df0e1dd65217306e6e3
-vendor/lib/libkeymasterutils.so|7e5e92470b5e7e42557cd07e4cd8873499df0346
-
 # Listen - from Sakura MIUI PIE RELEASE
 vendor/lib/hw/sound_trigger.primary.msm8953.so|c5da1142ec362219503e546221866f36e3d50be4
 vendor/lib/libadpcmdec.so|eeaef8dd6cad3da613860bb263f192cda56c60b6
